@@ -1,51 +1,101 @@
-class: center, middle
+﻿
+﻿class: center, middle
 
-# 讲义题目
+
+# 江意达的Slide
+
 
 &nbsp;
+
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+
+#### 江意达 (1700011739@pku.edu.cn)  
+
 
 主页: https://github.com/author
 
----
-
-## 本讲内容
-
-### <font color="orangered">1. 第一部分</font>
-
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
-
-### 2. 第二部分
-
-### 3. 第三部分
 
 ---
 
-## 第一部分
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
+##介绍我自己
+
+
+### <font color="orangered">
+
+1. 我被虐的瑟瑟发抖</font>
+
+
+
+#### &nbsp; &nbsp; 
+
+1.1 害怕.jpg
+
+
+#### &nbsp; &nbsp; 
+
+1.2 飞速逃离虐狗现场.jpg
+
+#### 
+&nbsp;
+ &nbsp; 
+1.3 我已经无所畏惧.jpg
+
+
+
+### 
+
+2. 那怎么办呢
+
+
+
+### 
+
+3. 黑人问号.gif
+
+
+
+---
+
+
+
+## 
+
+那不能怪我咯
+
+
+
+```
+live or die
 ```
 
+
+
 ---
 
-## 插图
+
+
+## 
+
+你看连她都嘲笑我
+
+
 
 ** Ada Lovelace **
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+
+< img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+
+
 
 ---
 
-## `\(\LaTeX{}\)` in remark
+
+
+##
+
+ `\(\LaTeX{}\)` in remark
 
 
 1. This is an inline integral: `\(\int_a^bf(x)dx\)`
@@ -55,8 +105,14 @@ Display formula:
 
 $$e^{i\pi} + 1 = 0$$
 
+
+
 ---
 
+
+
 class: center, middle
+
+
 
 # 谢谢
